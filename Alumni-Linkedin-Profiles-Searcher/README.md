@@ -1,4 +1,5 @@
 ====================Alumni LinkedIn Profiles Searcher=====================
+
 A Spring Boot backend application that enables users to search for the LinkedIn profiles of alumni from a specified educational institution. The application utilizes the PhantomBuster API to scrape data from LinkedIn, processes the information, and serves it to users with an easy REST API.
 
 Table of Contents:
